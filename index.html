@@ -12,20 +12,26 @@
   </a-assets>
   <a-box src="#boxTexture" position="-4 2 -4" rotation="0 45 45" scale="2 2 2">
     <a-animation attribute="position" to="0 15 -5" direction="alternate" dur="3000" repeat="indefinite"></a-animation>
+    <a-animation attribute="rotation" dur="6000" fill="forwards" to="0 405 405" repeat="indefinite"></a-animation>
   </a-box>
   <a-box src="#boxTexture" position="4 2 -4" rotation="0 45 45" scale="2 2 2">
     <a-animation attribute="position" to="0 15 -5" direction="alternate" dur="3000" repeat="indefinite"></a-animation>
+    <a-animation attribute="rotation" dur="6000" fill="forwards" to="0 405 405" repeat="indefinite"></a-animation>
   </a-box>
   <a-box src="#boxTexture" position="-4 2 4" rotation="0 45 45" scale="2 2 2">
     <a-animation attribute="position" to="0 15 -5" direction="alternate" dur="3000" repeat="indefinite"></a-animation>
+    <a-animation attribute="rotation" dur="6000" fill="forwards" to="0 405 405" repeat="indefinite"></a-animation>
   </a-box>
   <a-box src="#boxTexture" position="4 2 4" rotation="0 45 45" scale="2 2 2">
     <a-animation attribute="position" to="0 15 -5" direction="alternate" dur="3000" repeat="indefinite"></a-animation>
+    <a-animation attribute="rotation" dur="6000" fill="forwards" to="0 405 405" repeat="indefinite"></a-animation>
   </a-box>
 
   <a-sky src="#skyTexture"></a-sky>
   <a-light type="ambient" color="#c442e5"></a-light>
-  <a-light type="point" intensity="1.5" position="2 4 4"></a-light>
+  <a-light type="point" intensity="1.5" position="2 4 4">
+    <a-animation attribute="intensity" dur="3000" to="5" direction="alternate" repeat="indefinite"></a-animation>
+  </a-light>
   <a-plane src="#groundTexture" rotation="-90 0 0" width="20" height="20"></a-plane>
 </a-scene>
 </html>
