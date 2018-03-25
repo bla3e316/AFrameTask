@@ -1,5 +1,4 @@
-
-# AFrameTask
+# AFrame Tasks
 * **Code Live View**
 
   * [AFrameAnimation project link](https://bla3e316.github.io/AFrameTasks/AFrameAnimation "AFrameAnimation")
