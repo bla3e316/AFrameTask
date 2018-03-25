@@ -1,8 +1,8 @@
 # AFrameTask
-Code Live View
+**Code Live View**
+---
+>[AFrameAnimation project link](https://bla3e316.github.io/AFrameTasks/AFrameAnimation "AFrameAnimation")
 
-Task1 link => https://bla3e316.github.io/AFrameTasks/AFrameAnimation
+[AFrame360 project link](https://bla3e316.github.io/AFrameTasks/AFrame360 "AFrame360")
 
-Task2 link => https://bla3e316.github.io/AFrameTasks/AFrame360
-
-Task3 link => https://bla3e316.github.io/AFrameTasks/AFrameCraft
+[AFrameCraft project link](https://bla3e316.github.io/AFrameTasks/AFrameCraft "AFrameCraft")
